@@ -31,6 +31,13 @@ I asked ChatGPT to generate a full list of the plugin features:
 
 ## Screenshots
 
+## Requirements
+
+- PHP 8.0 or higher
+- Laravel 9.0, 10.0, 11.0, or 12.0
+- Filament 3.x
+- Livewire 3.x
+
 ## Installation
 
 You need to have [Laravel GPT from Malkuhr](https://github.com/maltekuhr/laravel-gpt) installed to use this package. If you haven't done so, follow the [installation instructions](https://github.com/maltekuhr/laravel-gpt?tab=readme-ov-file#installation):
